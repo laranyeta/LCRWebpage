@@ -1,0 +1,34 @@
+[
+  {
+    "id": "robocat",
+    "image": "img/projects/robocat.png",
+    "title": "Robocat",
+    "description": "AI-powered quadruped robot built to patrol streets autonomously.",
+    "page": "robocat.php",
+    "link": "https://github.com/joanmarc28/Robocat"
+  },
+  {
+    "id": "solarsprint",
+    "image": "img/projects/solarsprint.png",
+    "title": "Solar Sprint",
+    "description": "3D Spaceship Simulator and videogame made with OpenGL",
+    "page": "solarsprint.php",
+    "link": "https://github.com/laranyeta/Solar-Sprint"
+  },
+  {
+    "id": "licenseplate",
+    "image": "img/projects/platerecog.png",
+    "title": "Car Plate Recognition",
+    "description": "Combination of classical computer vision and Deep Learning model for instant license plate detection.",
+    "page": "licenseplate.php",
+    "link": "https://github.com/laranyeta/Reconeixement-Matricules"
+  },
+  {
+    "id": "kaggle",
+    "image": "img/projects/kaggle.png",
+    "title": "Spotify Song Attributes",
+    "description": "Kaggle project that predicts if a song matches a user’s taste based on playlist analysis.",
+    "page": "kaggle.php",
+    "link": "https://github.com/laranyeta/Spotify-Song-Attributes-Kaggle"
+  }
+]
