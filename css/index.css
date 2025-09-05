@@ -1,0 +1,39 @@
+/* HOMEPAGE STYLE */
+
+.homepage {
+    letter-spacing: 0.5vw;
+    text-align: left;
+    padding: 2vh 2vw;
+    margin-left: 5vw;
+    font-family: 'TAN', sans-serif;
+    font-size: 1.5rem;
+    min-height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    text-align: left;
+    line-height: 1.5;
+    z-index: 1;
+}
+
+.homepage span {
+    font-size:3rem;
+    color: var(--text-accent);
+    text-transform: uppercase;
+}
+
+.homepage h1, .social-media {
+  opacity: 0;
+  animation: fadeInText 2s ease forwards;
+}
+
+.homepage h1 {
+  animation-delay: 0.5s;
+}
+
+.social-media {
+    display: flex;
+    gap: 5vw;
+    animation-delay: 1s;
+}

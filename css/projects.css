@@ -1,0 +1,59 @@
+/* PROJECTS PAGE STYLES */
+.projects-container {
+    margin-top: 20.53vh; 
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 2rem; 
+    padding: 2rem;
+    justify-items: center;
+}
+
+.project-card {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    bottom: 10%;
+    padding: 1.5rem;
+    opacity: 0;
+    animation: fadeIn 1s ease forwards;
+    animation-delay: 0.6s;
+    
+}
+
+#project-img {
+    width: 70%;
+    border-radius: 10%;
+    
+}
+
+#project-img:hover {
+    transform: scale(1.025);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#project-description {
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 0.1vw;
+    z-index: 1;
+    font-size: 0.6rem;
+}
+
+.project-card h2 {
+    font-family: 'TAN', sans-serif;
+    color: var(--text-accent);
+    margin-top: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15vw;
+    font-size: 2rem;
+}
+
+.project-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5vh;
+    align-items: center;
+    margin-left: 3vw;
+}
