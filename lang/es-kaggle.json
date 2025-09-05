@@ -1,0 +1,22 @@
+{
+  "kaggle": {
+    "title": "Spotify <span>Song Attributes</span>",
+    "description-main": "Este proyecto se basa en un <span>dataset de canciones del año 2017</span> obtenido de la API de Spotify. Cada canción está etiquetada con un <span>objetivo binario</span>: <span>\"1\"</span> para canciones que estan marcadas con like y <span>\"0\"</span> para las que no. El objetivo fue explorar si se podía construir un <span>clasificador</span> para predecir si una canción gustará, usando sus características de audio. <br><br>El dataset contiene <span>16 columnas</span>: 13 atributos de audio, el <span>nombre de la canción</span>, el <span>artista</span> y la <span>etiqueta objetivo</span>. Algunos de los atributos: <span>acousticness, danceability, energy, instrumentalness, liveness, loudness, tempo, valence</span>.",
+    "see-more": "VER MÁS",
+    "description-extra": "El proyecto explora cómo los <span>atributos de audio</span> se relacionan con las preferencias musicales personales. Usando <span>técnicas de Machine Learning</span>, se han entrenado modelos para identificar patrones entre las canciones que tienen like y las que no. El dataset se obtuvo con <span>Spotipy</span>, un wrapper de Python para la API de Spotify. Un artículo detallado explica la metodología y los resultados.",
+    "see-features": "VER FUNCIONALIDADES",
+    "features-title": "Funcionalidades",
+    "features-list": [
+      "<span>16 columnas</span>: 13 atributos de audio, nombre de la canción, artista y etiqueta objetivo.",
+      "Atributos de audio incluyen <span>acousticness, danceability, energy, instrumentalness, loudness, tempo, valence</span> y más.",
+      "La etiqueta objetivo indica <span>preferencia</span> (\"1\" = like, \"0\" = no like).",
+      "Aplicación de <span>modelos de Machine Learning</span> para clasificar canciones según sus atributos de audio.",
+      "Exploración de la <span>importancia de características</span> para entender qué determina el gusto musical.",
+      "Implementación de técnicas de <span>prevención de fugas de datos</span> durante el entrenamiento.",
+      "Aplicación de <span>normalización</span> y <span>discretización</span> a los atributos numéricos para mejorar el rendimiento.",
+      "Gestión cuidadosa de <span>valores NaN</span> para garantizar calidad y robustez de los datos.",
+      "Haz clic abajo para <span>descargar el Jupyter Notebook</span> del proyecto."
+    ],
+    "download": "DESCARGAR IPYNB"
+  }
+}

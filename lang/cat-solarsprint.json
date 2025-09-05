@@ -1,0 +1,25 @@
+{
+  "solarsprint": {
+    "title": "Solar<span>Sprint</span>",
+    "description-main": "Solar Sprint és un <span>simulador espacial 3D híbrid i videojoc</span> desenvolupat des de zero amb <span>C++ i OpenGL</span>. El jugador controla una nau capaç d’explorar el sistema solar tenint en compte <span>col·lisions amb asteroides</span> i <span>física realista per a planetes, satèl·lits i la pròpia nau</span>. <br /> El joc inclou <span>dos modes principals</span>. En el <span>mode estructurat</span>, el jugador tria un planeta o satèl·lit d’origen i destinació, seguint la trajectòria òptima mentre recullen <span>combustible</span> i eviten asteroides. Els mesuradors de salut i combustible mostren l’estat actual de la nau. També hi ha un <span>mode d’exploració lliure</span> sense restriccions de salut ni combustible.",
+    "see-more": "VEURE MÉS",
+    "description-extra": "Per millorar la immersió, Solar Sprint inclou <span>il·luminació realista del Sol</span>, <span>òrbites planetàries precises</span> i <span>efectes de partícules de la nau</span>. Un <span>mini-mapa</span> ajuda a localitzar cossos celestes, i <span>finestres informatives</span> mostren en temps real l’estat de la nau. Aquest projecte va ser desenvolupat amb <span>finalitats educatives</span>, oferint una experiència espacial atractiva i didàctica.",
+    "see-features": "VEURE CARACTERÍSTIQUES",
+    "features-title": "Característiques",
+    "features-list": [
+      "Simulador espacial 3D desenvolupat des de zero amb <span>C++ i OpenGL</span>.",
+      "<span>Física realista</span> per a planetes, satèl·lits i naus, amb <span>detecció de col·lisions</span> amb asteroides i altres cossos celestes.",
+      "La nau es mou amb <span>sis graus de llibertat</span>, utilitzant <span>assistències gravitacionals</span> per optimitzar trajectòries i consum de combustible.",
+      "Òrbites calculades amb la <span>Llei de la Gravitació Universal de Newton</span>, incloent-hi paràmetres com inclinació i velocitat orbital.",
+      "Models 3D de naus i asteroides obtinguts de <span>SketchFab</span>.",
+      "<span>Mesuradors de salut i combustible</span> per monitoritzar l’estat de la nau.",
+      "Múltiples vistes de càmera: <span>tercera persona, primera persona i vista posterior</span>.",
+      "<span>Il·luminació solar realista</span>, <span>òrbites planetàries precises</span> i <span>efectes immersius de partícules</span> per millorar l’experiència visual.",
+      "<span>Compatibilitat amb comandament de XBOX</span> per a un control intuïtiu i immersiu."
+    ],
+    "see-gallery": "VEURE GALERIA",
+    "gallery-title": "Galeria",
+    "download": "DESCARREGAR SOLAR SPRINT",
+    "run-instructions": "Per executar el joc, <span>extreu l’arxiu .zip i obre SolarSprintGame.exe</span>"
+  }
+}

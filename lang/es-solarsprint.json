@@ -1,0 +1,25 @@
+{
+  "solarsprint": {
+    "title": "Solar<span>Sprint</span>",
+    "description-main": "Solar Sprint es un <span>simulador espacial 3D híbrido y videojuego</span> desarrollado desde cero con <span>C++ y OpenGL</span>. El jugador controla una nave capaz de explorar el sistema solar considerando <span>colisiones con asteroides</span> y <span>física realista para planetas, satélites y la nave</span>. <br /> El juego incluye <span>dos modos principales</span>. En el <span>modo estructurado</span>, el jugador elige un planeta o satélite de origen y destino, siguiendo la trayectoria óptima mientras recogen <span>combustible</span> y evitan asteroides. Los medidores de salud y combustible reflejan el estado de la nave. También existe un <span>modo de exploración libre</span> sin restricciones de salud o combustible.",
+    "see-more": "VER MÁS",
+    "description-extra": "Para mejorar la inmersión, Solar Sprint incluye <span>iluminación realista del Sol</span>, <span>órbitas planetarias precisas</span> y <span>efectos de partículas de la nave</span>. Un <span>mini-mapa</span> ayuda a ubicar cuerpos celestes, y <span>ventanas informativas</span> muestran en tiempo real el estado de la nave. Este proyecto fue desarrollado con <span>fines educativos</span>, ofreciendo una experiencia espacial atractiva y didáctica.",
+    "see-features": "VER CARACTERÍSTICAS",
+    "features-title": "Características",
+    "features-list": [
+      "Simulador espacial 3D desarrollado desde cero con <span>C++ y OpenGL</span>.",
+      "<span>Física realista</span> para planetas, satélites y naves, con <span>detección de colisiones</span> con asteroides y otros cuerpos celestes.",
+      "La nave se mueve con <span>seis grados de libertad</span>, utilizando <span>asistencias gravitatorias</span> para optimizar trayectorias y consumo de combustible.",
+      "Órbitas calculadas con la <span>Ley de la Gravitación Universal de Newton</span>, incluyendo parámetros como inclinación y velocidad orbital.",
+      "Modelos 3D de naves y asteroides obtenidos de <span>SketchFab</span>.",
+      "<span>Medidores de salud y combustible</span> para monitorizar el estado de la nave.",
+      "Múltiples vistas de cámara: <span>tercera persona, primera persona y vista trasera</span>.",
+      "<span>Iluminación solar realista</span>, <span>órbitas planetarias precisas</span> y <span>efectos inmersivos de partículas</span> para mejorar la experiencia visual.",
+      "<span>Soporte para mando de XBOX</span> para un control intuitivo e inmersivo."
+    ],
+    "see-gallery": "VER GALERÍA",
+    "gallery-title": "Galería",
+    "download": "DESCARGAR SOLAR SPRINT",
+    "run-instructions": "Para ejecutar el juego, <span>extrae el archivo .zip y abre SolarSprintGame.exe</span>"
+  }
+}

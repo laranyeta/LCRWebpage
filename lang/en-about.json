@@ -1,0 +1,14 @@
+{
+    "about": {
+    "name": "Lara <span>Castillejo</span>",
+    "title": "Computer Science Student | <span> AI specialization </span>",
+    "description": "Fourth-year Computer Science student with a specialization in <span>computer vision, data analysis and artificial intelligence.</span> <br> Always looking for <span>new challenges</span> that help me grow and apply my knowledge in <span>real-world projects.</span>",
+    "age": "<span>23</span> years old <br> from <span>Barcelona, Spain</span>",
+    "skills-btn": "SKILLS"
+  },
+  "experience": {
+    "software": "Software",
+    "languages": "Languages",
+    "libraries": "Libraries"
+  }
+}

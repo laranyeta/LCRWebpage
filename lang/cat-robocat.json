@@ -1,0 +1,20 @@
+{
+  "robocat": {
+    "title": "Robo<span>cat</span>",
+    "description-main": "Robocat és un <span>robot quadrúpede autònom</span> dissenyat per <span>patrullar carrers públics</span> i <span>supervisar zones d'aparcament regulades per pagament</span>. La seva estructura i aspecte extern estan inspirats en la forma d’un gat, cosa que el fa funcional però també amigable i proper per als vianants. Equipat amb sensors, càmeres i computació a bord, <span>Robocat pot detectar si un vehicle estacionat té un permís d'aparcament actiu, combinant robòtica, visió per computador i processament de dades en temps real</span> per oferir una solució mòbil i intel·ligent per a la gestió urbana.",
+    "see-more": "VEURE MÉS",
+    "description-extra": "Per donar vida al concepte de Robocat, s'han integrat <span>algoritmes de cinemàtica inversa</span> que optimitzen el seu moviment, juntament amb <span>models d'IA entrenats amb Deep Learning</span> per a la detecció de matrícules de vehicles, assegurant així la plena realització de la seva funcionalitat.",
+    "see-features": "VEURE CARACTERÍSTIQUES",
+    "features-title": "Característiques",
+    "features-list": [
+        "Funciona en una <span>Raspberry Pi 4B</span>, desenvolupat en <span>Python</span>, simulat en <span>CoppeliaSim</span>",
+        "Equipat amb <span>10 servos</span> a més de <span>càmera wide-angle, sensor ultrasons, micròfon, pantalles OLED i més.</span>",
+        "Disposa d’un <span>xassís original imprès en 3D</span> dissenyat amb <span>Autodesk Fusion 360</span>",
+        "Cablejat amb una <span>PCB personalitzada</span> dissenyada per als requisits específics del maquinari del robot",
+        "Funciona amb una <span>app personalitzada per a usuaris i policia</span> que permet el pagament de l'aparcament i el control remot del robot",
+        "Integració amb <span>serveis de Google Cloud</span> com Google Maps, Gemini AI, Speech-To-Text i més per a una aplicació pràctica",
+        "Entrenat amb <span>models de Deep Learning</span> utilitzant YOLOv5 per a la detecció d'objectes en temps real"
+    ],
+    "see-video": "VEURE VÍDEO COMPLET"
+  }
+}

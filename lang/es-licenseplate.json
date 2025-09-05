@@ -1,0 +1,22 @@
+{
+  "licenseplate": {
+    "title": "Reconocimiento de <span>Matrículas</span>",
+    "description-main": "Este proyecto consiste en un <span>algoritmo para detectar matrículas españolas</span> en vehículos estacionados. Combina <span>modelos de Deep Learning</span> con <span>técnicas clásicas de visión por computador</span> para optimizar rendimiento y precisión. <br><br> Fases principales: <br><span>1.</span> Detección de vehículos usando <span>YOLOv8</span>.<br><span>2.</span> Localización de la matrícula con <span>detección de contornos Sobel</span> (dirección horizontal) y <span>operaciones morfológicas</span>.<br><span>3.</span> OCR con una <span>CNN entrenada con TensorFlow</span>, segmentando caracteres tras eliminar la zona de nacionalidad mediante un <span>filtro de región azul</span>.",
+    "see-more": "VER MÁS",
+    "description-extra": "Al combinar <span>Deep Learning moderno</span> con <span>algoritmos clásicos de visión</span>, el proyecto logra resultados eficientes y robustos. YOLOv8 asegura detección rápida de vehículos, la segmentación Sobel permite localizar la matrícula con precisión y la OCR basada en CNN interpreta correctamente los caracteres alfanuméricos. El sistema está diseñado para <span>aplicaciones reales</span> como <span>control de estacionamiento, vigilancia de tráfico y sistemas de smart cities</span>.",
+    "see-features": "VER FUNCIONALIDADES",
+    "features-title": "Funcionalidades",
+    "features-list": [
+      "Detección de vehículos usando <span>YOLOv8</span> para alta precisión y velocidad.",
+      "Localización de matrículas con <span>detección de contornos Sobel</span> en dirección horizontal.",
+      "Aplicación de <span>operaciones morfológicas</span> para refinar contornos y reducir ruido.",
+      "Reconocimiento de caracteres con una <span>CNN personalizada</span> entrenada usando <span>TensorFlow</span>.",
+      "Eliminación automática de la <span>zona de nacionalidad de la UE</span> mediante un filtro azul.",
+      "Metodología híbrida combinando <span>Deep Learning</span> y <span>visión por computador clásica</span>.",
+      "Diseñado para <span>reconocimiento de vehículos estacionados</span>, con potencial aplicación en <span>control de tráfico y vigilancia</span>.",
+      "Escalable y adaptable a <span>diferentes datasets</span> y <span>formatos de matrículas</span>.",
+      "Haz clic abajo para ver el <span>documento ampliado</span> del proyecto."
+    ],
+    "see-paper": "VER DOCUMENTO"
+  }
+}

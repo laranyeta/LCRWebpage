@@ -1,0 +1,36 @@
+ { 
+  "projects": [
+    {
+      "id": "robocat",
+      "image": "img/projects/robocat.png",
+      "title": "Robocat",
+      "description": "Robot quadrúpede autònom amb IA integrada dissenyat per patrullar els carrers de manera independent.",
+      "page": "robocat.php",
+      "link": "https://github.com/joanmarc28/Robocat"
+    },
+    {
+      "id": "solarsprint",
+      "image": "img/projects/solarsprint.png",
+      "title": "Solar Sprint",
+      "description": "Simulador i videojoc de nau espacial 3D fet amb OpenGL",
+      "page": "solarsprint.php",
+      "link": "https://github.com/laranyeta/Solar-Sprint"
+    },
+    {
+      "id": "licenseplate",
+      "image": "img/projects/platerecog.png",
+      "title": "Reconeixement de Matrícules",
+      "description": "Combinació de visió per computador clàssica i models de Deep Learning per a la detecció instantània de matrícules.",
+      "page": "licenseplate.php",
+      "link": "https://github.com/laranyeta/Reconeixement-Matricules"
+    },
+    {
+      "id": "kaggle",
+      "image": "img/projects/kaggle.png",
+      "title": "Atributs de Cançons a Spotify",
+      "description": "Projecte de Kaggle que prediu si una cançó coincideix amb els gustos d’un usuari basant-se en l’anàlisi de playlists.",
+      "page": "kaggle.php",
+      "link": "https://github.com/laranyeta/Spotify-Song-Attributes-Kaggle"
+    }
+  ]
+ }

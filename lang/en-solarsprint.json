@@ -1,0 +1,25 @@
+{
+  "solarsprint": {
+    "title": "Solar<span>Sprint</span>",
+    "description-main": "Solar Sprint is a <span>hybrid 3D space simulator and game</span> developed from scratch using <span>C++ and OpenGL</span>. The player controls a spacecraft capable of exploring the solar system while considering <span>collisions with asteroids</span> and realistic <span>physics for planets, satellites, and the spacecraft itself</span>. <br /> The game features <span>two main modes</span>. In <span>structured gameplay</span>, the player selects an origin and destination planet or satellite, following the optimal trajectory while collecting <span>fuel</span> and avoiding asteroid collisions. Health and fuel bars reflect the spacecraft's current condition. Players can also switch to <span>free exploration mode</span>, navigating the solar system without restrictions on fuel or health.",
+    "see-more": "SEE MORE",
+    "description-extra": "To enhance immersion, Solar Sprint includes <span>realistic Sun lighting</span>, <span>accurate planetary orbits</span>, and <span>particle effects from the spacecraft</span>. A <span>mini-map</span> helps locate celestial bodies, and <span>informative pop-ups</span> provide real-time updates on the spacecraft’s status. This project was developed with <span>educational purposes</span> in mind, offering an engaging and informative space experience.",
+    "see-features": "SEE FEATURES",
+    "features-title": "Features",
+    "features-list": [
+      "3D space simulator developed from scratch using <span>C++ and OpenGL</span>.",
+      "<span>Realistic physics</span> for planets, satellites, and spacecraft, including <span>collision detection</span> with asteroids and other celestial bodies.",
+      "Spacecraft moves with <span>six degrees of freedom</span>, utilizing <span>gravity assists</span> to optimize trajectories and fuel usage.",
+      "Orbits calculated using <span>Newton’s Law of Universal Gravitation</span> for realistic planetary motion, including parameters like inclination and orbital velocity.",
+      "3D models of spacecraft and asteroids sourced from <span>SketchFab</span>.",
+      "<span>Health and fuel bars</span> to monitor spacecraft status.",
+      "Multiple camera views: <span>third-person, first-person and rear view</span>.",
+      "<span>Realistic Sun lighting</span>, <span>accurate planetary orbits</span>, and <span>immersive particle effects</span> to enhance visual experience.",
+      "<span>XBOX controller support</span> for intuitive and immersive gameplay."
+    ],
+    "see-gallery": "SEE GALLERY",
+    "gallery-title": "Gallery",
+    "download": "DOWNLOAD SOLAR SPRINT",
+    "run-instructions": "To run the game, <span>extract the .zip file and run SolarSprintGame.exe</span>"
+  }
+}

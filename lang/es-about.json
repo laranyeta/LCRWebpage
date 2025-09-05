@@ -1,0 +1,13 @@
+{
+    "about": {
+    "title": "Ingeniería Informática | <span> Computación, IA </span>",
+    "description": "Estudiante de cuarto curso de Ingeniería Informática especializada en <span>visión por computador, análisis de datos e inteligencia artificial.</span> <br> Siempre en busca de <span>nuevos desafíos</span> que me permitan crecer y aplicar mis conocimientos en <span>proyectos reales.</span>",
+    "age": "<span>23</span> años <br> de <span>Barcelona, España</span>",
+    "skills-btn": "HABILIDADES"
+  },
+  "experience": {
+    "software": "Software",
+    "languages": "Lenguajes",
+    "libraries": "Librerías"
+  }
+}

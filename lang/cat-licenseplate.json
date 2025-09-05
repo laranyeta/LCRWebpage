@@ -1,0 +1,22 @@
+{
+  "licenseplate": {
+    "title": "Reconeixement de <span>Matrícules</span>",
+    "description-main": "Aquest projecte consisteix en un <span>algorisme per detectar matrícules espanyoles</span> en vehicles estacionats. Combina <span>models de Deep Learning</span> amb <span>tècniques clàssiques de visió per computador</span> per optimitzar rendiment i precisió. <br><br> Fases principals: <br><span>1.</span> Detecció de vehicles amb <span>YOLOv8</span>.<br><span>2.</span> Localització de la matrícula amb <span>detecció de contorns Sobel</span> (direcció horitzontal) i <span>operacions morfològiques</span>.<br><span>3.</span> OCR amb una <span>CNN entrenada amb TensorFlow</span>, segmentant caràcters després d'eliminar la zona de nacionalitat mitjançant un <span>filtre de regió blava</span>.",
+    "see-more": "VEURE MÉS",
+    "description-extra": "Combinant <span>Deep Learning modern</span> amb <span>algorismes clàssics de visió</span>, el projecte aconsegueix resultats eficients i robustos. YOLOv8 garanteix detecció ràpida de vehicles, la segmentació Sobel permet localitzar la matrícula amb precisió i l'OCR basada en CNN interpreta correctament els caràcters alfanumèrics. El sistema està dissenyat per a <span>aplicacions reals</span> com <span>control d'aparcament, vigilància del trànsit i sistemes de smart cities</span>.",
+    "see-features": "VEURE FUNCIONALITATS",
+    "features-title": "Funcionalitats",
+    "features-list": [
+      "Detecció de vehicles amb <span>YOLOv8</span> per alta precisió i velocitat.",
+      "Localització de matrícules amb <span>detecció de contorns Sobel</span> en direcció horitzontal.",
+      "Aplicació d'<span>operacions morfològiques</span> per refinar contorns i reduir soroll.",
+      "Reconeixement de caràcters amb una <span>CNN personalitzada</span> utilitzant <span>TensorFlow</span>.",
+      "Eliminació automàtica de la <span>zona de nacionalitat de la UE</span> mitjançant un filtre blau.",
+      "Metodologia híbrida combinant <span>Deep Learning</span> i <span>visió per computador clàssica</span>.",
+      "Dissenyat per a <span>reconeixement de vehicles estacionats</span>, amb potencial aplicació en <span>control de trànsit i vigilància</span>.",
+      "Escalable i adaptable a <span>diferents datasets</span> i <span>formats de matrícules</span>.",
+      "Fes clic a sota per veure el <span>document ampliat</span> del projecte."
+    ],
+    "see-paper": "VEURE DOCUMENT"
+  }
+}

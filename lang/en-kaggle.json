@@ -1,0 +1,22 @@
+{
+  "kaggle": {
+    "title": "Spotify <span>Song Attributes</span>",
+    "description-main": "This project is based on a <span>dataset of 2017 songs</span> collected from Spotify’s API. Each song is labeled with a <span>binary target</span>: <span>\"1\"</span> for liked songs and <span>\"0\"</span> for non-liked songs. The goal was to explore whether a <span>classifier</span> could be built to predict if a song would be liked, using its audio features. <br><br>The dataset contains <span>16 columns</span>: 13 audio attributes, the <span>song name</span>, the <span>artist</span>, and the <span>target label</span>. Some of the attributes: <span>acousticness, danceability, energy, instrumentalness, liveness, loudness, tempo, valence</span>.",
+    "see-more": "SEE MORE",
+    "description-extra": "The project explored how <span>audio features</span> relate to personal music preferences. Using <span>Machine Learning techniques</span>, models have been trained to identify patterns in the liked songs versus those non-liked ones. The dataset was obtained with <span>Spotipy</span>, a Python wrapper for Spotify’s API. A detailed article explains the methodology and results.",
+    "see-features": "SEE FEATURES",
+    "features-title": "Features",
+    "features-list": [
+      "<span>16 columns</span>: 13 audio features, song name, artist, and target label.",
+      "Audio features include <span>acousticness, danceability, energy, instrumentalness, loudness, tempo, valence</span>, among others.",
+      "Target label indicates <span>preference</span> (\"1\" = liked, \"0\" = not liked).",
+      "Applied <span>machine learning models</span> to classify songs based on audio attributes.",
+      "Exploration of <span>feature importance</span> to understand what drives musical taste.",
+      "Implementation of <span>data leakage prevention</span> techniques during model training.",
+      "Applied <span>normalization</span> and <span>discretization</span> to numerical features for improved model performance.",
+      "Careful handling of <span>NaN values</span> to ensure data quality and robustness.",
+      "Click below to <span>download the Jupyter Notebook</span> of the project."
+    ],
+    "download": "DOWNLOAD IPYNB"
+  }
+}

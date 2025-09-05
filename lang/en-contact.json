@@ -1,0 +1,17 @@
+{
+  "contact": {
+    "title": "Contact <span>Me</span>",
+    "description": "If you have any questions, collaborations or just want to say hi, feel free to write me!",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send"
+    },
+    "fallback": "Any problem? Try sending an <a href='mailto:laracastillejoroig@gmail.com'>email</a>",
+    "popup": {
+      "title": "Message Sent!",
+      "message": "Thanks for contacting me, I’ll get back to you soon!"
+    }
+  }
+}

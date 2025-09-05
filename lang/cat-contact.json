@@ -1,0 +1,17 @@
+{
+  "contact": {
+    "title": "Contacta <span>Amb Mi</span>",
+    "description": "Si tens qualsevol pregunta, col·laboració o simplement vols dir-me \"Hola\", no dubtis a escriure'm!",
+    "form": {
+      "name": "Nom",
+      "email": "Correu electrònic",
+      "message": "Missatge",
+      "send": "Enviar"
+    },
+    "fallback": "Has tingut algun problema? Prova a enviar un <a href='mailto:laracastillejoroig@gmail.com'>correu electrònic</a>",
+    "popup": {
+      "title": "Missatge Enviat!",
+      "message": "Gràcies per contactar-me, et contestaré aviat!"
+    }
+  }
+}

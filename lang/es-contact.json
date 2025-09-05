@@ -1,0 +1,17 @@
+{
+  "contact": {
+    "title": "Contacta <span>Conmigo</span>",
+    "description": "Si tienes cualquier pregunta, colaboración o simplemente quieres decirme \"Hola\", ¡no dudes en escribirme!",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "send": "Enviar"
+    },
+    "fallback": "¿Has tenido algún problema? Prueba enviando un <a href='mailto:laracastillejoroig@gmail.com'>correo electrónico</a>",
+    "popup": {
+      "title": "¡Mensaje enviado!",
+      "message": "¡Gracias por contactarme, te responderé pronto!"
+    }
+  }
+}

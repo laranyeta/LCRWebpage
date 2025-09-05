@@ -1,0 +1,13 @@
+{
+  "about": {
+    "title": "Enginyeria Informàtica | <span> Computació, IA </span>",
+    "description": "Estudiant de quart curs d'Enginyeria Informàtica, especialitzada en <span>visió per computador, anàlisi de dades i intel·ligència artificial.</span> <br> Sempre buscant <span>nous reptes</span> que em permetin créixer i aplicar els meus coneixements en <span>projectes reals.</span>",
+    "age": "<span>23</span> anys <br> de <span>Barcelona, Espanya</span>",
+    "skills-btn": "HABILITATS"
+  },
+  "experience": {
+    "software": "Programari",
+    "languages": "Llenguatges",
+    "libraries": "Llibreries"
+  }
+}

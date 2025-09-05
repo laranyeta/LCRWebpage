@@ -1,0 +1,22 @@
+{
+  "licenseplate": {
+    "title": "Car Plate <span>Recognition</span>",
+    "description-main": "This project consists of an <span>algorithm for detecting Spanish license plates</span> in parked vehicles. It combines <span>Deep Learning models</span> with <span>classical computer vision techniques</span> to optimize performance and accuracy. <br><br> Main phases: <br><span>1.</span> Vehicle detection using <span>YOLOv8</span>.<br><span>2.</span> License plate localization with <span>Sobel contour detection</span> (horizontal direction) and <span>morphological operations</span>.<br><span>3.</span> OCR with a <span>TensorFlow-trained CNN</span>, segmenting characters after removing the nationality area through a <span>blue-region filter</span>.",
+    "see-more": "SEE MORE",
+    "description-extra": "By blending <span>modern deep learning</span> with <span>classic vision algorithms</span>, the project achieves efficient and robust recognition results. YOLOv8 ensures fast vehicle detection, Sobel-based contouring enables precise plate localization, and the CNN-based OCR accurately interprets the alphanumeric characters. The system is designed for <span>real-world applications</span> such as <span>parking control, traffic surveillance, and smart city systems</span>.",
+    "see-features": "SEE FEATURES",
+    "features-title": "Features",
+    "features-list": [
+      "Vehicle detection using <span>YOLOv8</span> for high accuracy and speed.",
+      "License plate localization with <span>Sobel contour detection</span> in horizontal direction.",
+      "<span>Morphological operations</span> applied to refine contours and reduce noise.",
+      "Character recognition with a <span>custom CNN</span> trained using <span>TensorFlow</span>.",
+      "Automatic removal of the <span>EU nationality area</span> via a blue-region filter.",
+      "Hybrid methodology combining <span>Deep Learning</span> and <span>classical computer vision</span> for optimized results.",
+      "Designed for <span>parked vehicle recognition</span>, with potential use in <span>traffic control and surveillance</span>.",
+      "Scalable and adaptable to <span>different datasets</span> and <span>license plate formats</span>.",
+      "Click below to see the <span>extended paper</span> of the project!"
+    ],
+    "see-paper": "SEE PAPER"
+  }
+}

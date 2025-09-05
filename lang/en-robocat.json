@@ -1,0 +1,20 @@
+{
+  "robocat": {
+    "title": "Robo<span>cat</span>",
+    "description-main": "Robocat is an <span>autonomous quadruped robot</span> designed to <span>patrol public streets</span> and <span>monitor parking zones regulated by payment</span>. Its structure and external appearance are inspired by a cat's shape, making it functional but also friendly and approachable for pedestrians. Equipped with sensors, cameras and onboard computing, <span>Robocat can detect whether a parked vehicle has an active parking permit, combining robotics, computer vision and real-time data processing</span> to offer a smart, mobile solution for urban mobility enforcement.",
+    "see-more": "SEE MORE",
+    "description-extra": "To bring the Robocat concept to life, <span>inverse kinematics algorithms</span> have been integrated to optimize its movement, along with <span>AI models trained through Deep Learning</span> for vehicle license plate detection, thus ensuring the full realization of its functionality.",
+    "see-features": "SEE FEATURES",
+    "features-title": "Features",
+    "features-list": [
+      "Runs in <span>Raspberry Pi 4B</span>, developed in <span>Python</span>, simulated in <span>CoppeliaSim</span>",
+      "Equipped with <span>10 servos</span> using also <span>wide-angle camera, ultrasonic distance sensor, microphone, OLED screens and more.</span>",
+      "Carries an <span>original 3D printed chassis</span> designed with <span>Autodesk Fusion 360</span>",
+      "Wired with a <span>custom PCB</span> designed for the robot's specific hardware requirements",
+      "Works with a <span>custom user and police app</span> for parking payment and remote control of the robot",
+      "Integration with <span>Google Cloud services</span> such as Google Maps, Gemini AI, Speech-To-Text and more for an usable application",
+      "Trained with <span>Deep Learning models</span> using YOLOv5 for real-time object detection"
+    ],
+    "see-video": "SEE FULL VIDEO"
+  }
+}

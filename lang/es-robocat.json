@@ -1,0 +1,20 @@
+{
+  "robocat": {
+    "title": "Robo<span>cat</span>",
+    "description-main": "Robocat es un <span>robot cuadrúpedo autónomo</span> diseñado para <span>patrullar calles públicas</span> y <span>supervisar zonas de aparcamiento reguladas por pago</span>. Su estructura y aspecto externo están inspirados en la forma de un gato, lo que lo hace funcional pero también amigable y cercano para los peatones. Equipado con sensores, cámaras y computación a bordo, <span>Robocat puede detectar si un vehículo estacionado tiene un permiso de aparcamiento activo, combinando robótica, visión por computador y procesamiento de datos en tiempo real</span> para ofrecer una solución móvil e inteligente para la gestión urbana.",
+    "see-more": "VER MÁS",
+    "description-extra": "Para dar vida al concepto de Robocat, se han integrado <span>algoritmos de cinemática inversa</span> que optimizan su movimiento, junto con <span>modelos de IA entrenados mediante Deep Learning</span> para la detección de matrículas de vehículos, asegurando así la plena realización de su funcionalidad.",
+    "see-features": "VER CARACTERÍSTICAS",
+    "features-title": "Características",
+    "features-list": [
+        "Funciona en <span>Raspberry Pi 4B</span>, desarrollado en <span>Python</span>, simulado en <span>CoppeliaSim</span>",
+        "Equipado con <span>10 servos</span> además de <span>cámara gran angular, sensor de ultrasonidos, micrófono, pantallas OLED y más.</span>",
+        "Cuenta con un <span>chasis original impreso en 3D</span> diseñado con <span>Autodesk Fusion 360</span>",
+        "Cableado con una <span>PCB personalizada</span> diseñada para los requisitos específicos del hardware del robot",
+        "Funciona con una <span>app personalizada para usuarios y policía</span> que permite el pago del aparcamiento y el control remoto del robot",
+        "Integración con <span>servicios de Google Cloud</span> como Google Maps, Gemini AI, Speech-To-Text y más para una aplicación práctica",
+        "Entrenado con <span>modelos de Deep Learning</span> utilizando YOLOv5 para la detección de objetos en tiempo real"
+    ],
+    "see-video": "VER VÍDEO COMPLETO"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "kaggle": {
+    "title": "Spotify <span>Song Attributes</span>",
+    "description-main": "Aquest projecte es basa en un <span>dataset de cançons de l'any 2017</span> obtingut de l'API de Spotify. Cada cançó està etiquetada amb un <span>objectiu binari</span>: <span>\"1\"</span> per cançons que tenen like i <span>\"0\"</span> per les que no. L'objectiu era explorar si es podia construir un <span>classificador</span> per predir si una cançó agradaria, utilitzant les seves característiques d'àudio. <br><br>El dataset conté <span>16 columnes</span>: 13 atributs d'àudio, el <span>nom de la cançó</span>, el <span>artista</span> i l'<span>etiqueta objectiu</span>. Alguns dels atributs: <span>acousticness, danceability, energy, instrumentalness, liveness, loudness, tempo, valence</span>.",
+    "see-more": "VEURE MÉS",
+    "description-extra": "El projecte va explorar com els <span>atributs d'àudio</span> es relacionen amb les preferències musicals personals. Utilitzant <span>tècniques de Machine Learning</span>, s'han entrenat models per identificar patrons entre les cançons que tenen like i les que no. El dataset es va obtenir amb <span>Spotipy</span>, un wrapper de Python per a l'API de Spotify. Un article detallat explica la metodologia i els resultats.",
+    "see-features": "VEURE FUNCIONALITATS",
+    "features-title": "Funcionalitats",
+    "features-list": [
+      "<span>16 columnes</span>: 13 atributs d'àudio, nom de la cançó, artista i etiqueta objectiu.",
+      "Atributs d'àudio inclouen <span>acousticness, danceability, energy, instrumentalness, loudness, tempo, valence</span> i més.",
+      "L'etiqueta objectiu indica la <span>preferència</span> (\"1\" = agrada, \"0\" = no agrada).",
+      "Aplicació de <span>models de Machine Learning</span> per classificar cançons segons els atributs d'àudio.",
+      "Exploració de la <span>importància de les característiques</span> per entendre què determina el gust musical.",
+      "Implementació de tècniques de <span>prevenció de filtratge de dades</span> durant l'entrenament.",
+      "Aplicació de <span>normalització</span> i <span>discretització</span> als atributs numèrics per millorar el rendiment.",
+      "Gestió acurada de <span>valors NaN</span> per garantir qualitat i robustesa de les dades.",
+      "Fes clic a sota per <span>descarregar el Jupyter Notebook</span> del projecte."
+    ],
+    "download": "DESCARREGAR IPYNB"
+  }
+}
